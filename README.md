@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yentlc
 - 👀 I’m interested in Web development, 3D design, and architecture
 - 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through my email
 
 <!---
